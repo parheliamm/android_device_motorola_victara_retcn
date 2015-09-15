@@ -97,7 +97,7 @@ EXTENDED_FONT_FOOTPRINT := true
 TARGET_GPS_HAL_PATH := device/motorola/victara_retcn/gps
 
 # Hardware
-BOARD_HARDWARE_CLASS := device/motorola/victara_retcn/mkhw
+BOARD_HARDWARE_CLASS := device/motorola/victara_retcn/cmhw
 
 # Init
 TARGET_NR_SVC_SUPP_GIDS := 32
